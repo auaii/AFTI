@@ -1,0 +1,12 @@
+langchain-google-genai
+langchain-groq
+langgraph-cli[inmem]
+langchain_tavily
+tavily-python
+pydantic
+ipykernel
+deepagents
+python-dotenv
+markdownify
+httpx
+rich
